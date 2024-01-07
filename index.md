@@ -1,11 +1,11 @@
 ---
-title: Welcome to my website
+<!title: Not a Top 10 title>
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Not a Top 10
 ---
 
-# [NOT A TOP 10 PODCAST](https://www.notatop10.fm/)
+# [NOT A TOP 10](https://www.notatop10.fm/)
 
 Ένα podcast για την επιστήμη και την τεχνολογία στα ελληνικά, από τους [Γιώργο Δημόπουλο](https://www.instagram.com/giorgos.dimop) και [Θέμο Κάλλο](https://www.timaras.com).
 
